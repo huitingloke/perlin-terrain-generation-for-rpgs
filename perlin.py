@@ -36,7 +36,7 @@ class TerrainGenerator:
     def createTerrainFile(pic):
         with open("terrainGeneration.txt", "w") as theFile:
             for x in range(len(pic)):
-                if x == 0 or x == len(pic) - 3:
+                if x == 0 or x == len(pic) - 1:
                     for i in range(len(pic)):
                         theFile.write("X")
                     theFile.write("\n")
@@ -77,4 +77,4 @@ def whatTheHeckIsTheBiggestNumber(file):
     return smallestNumber, biggestNumber
 
 item = TerrainGenerator.createPerlin(seed=random.randint(0,100))
-TerrainGenerator.createVisualizationFile(item)
+TerrainGenerator.createTerrainFile(item)
