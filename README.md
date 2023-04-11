@@ -4,7 +4,7 @@
 	<h2>What does this do?</h2>
 	<p>Hi, thanks for coming to this project! You can create a map and many submaps of each pixel on said map using a few methods! This was made as a personal project for a Discord bot that I forgot to work on, but this can just be a personal project now anyway. Hope you find this little library useful! (I guess it's the first thing I'm really developing, so please be patient and have low expectations if you would)</p>
 	<h2>Current features (methods, I guess)</h2>
-	<img src="" />
+	<img src="https://img.ifunny.co/images/b3a4459f0751965a805d48a249d752b1ef16539f5a761ed79b678c048d6d91a0_1.jpg" alt="Credits to "/>
 	<p><i>Take this very settling image and be done with it, thank you!</i></p>
 		<table border="1">
 			<thead>
@@ -47,7 +47,6 @@
 				</tr>
 			</tbody>
 		</table>
-
 	<h2>Future features that could be implemented (no promises)</h2>
 	<ul>
 		<li>Fixing the terrain generation to include more types of terrain</li>
@@ -58,14 +57,12 @@
 		</ul>
 		<li>Putting this onto Github or maybe even <code>pip install</code>!</li>
 	</ul>
-
 	<h2>Credits to...</h2>
 	<ul>
 		<li><a href="https://www.github.com/huitingloke">Perlin Noise</a> - Doing the Perlin Math generation</li>
 		<li><a href="https://www.github.com/huitingloke">Beth</a> - Developing the terrain generation</li>
 		<li><a href="https://www.github.com/JustinCMH555">Justin</a> - Mentally stable tech support</li>
 	</ul>
-
 	<h2>Frequentky Asked Questions (FAQ)</h2>
 	<p><i>Please don't ask me questions because I am scared of everyone</i></p>
 	</body>
